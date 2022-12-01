@@ -1,0 +1,10 @@
+Package: connectivitymetrics
+Type: Package
+Title:  Calculates River Multi Connectivity Metrics
+Version: 0.1.0
+Author: Qi Liu
+Maintainer: Qi Liu <csuliuqi2021@163.com>
+Description: The connectivitymetrics package was developed in order to calculate river multi connectivity metrics, assisting in research on river fragmentation analysis.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
