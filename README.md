@@ -1,4 +1,4 @@
-# connectivitymetrics # <img src="figures/logo.png" align="right" alt="" width="150" />
+# connectivitymetrics <img src="figures/logo.png" align="right" alt="" width="150" />
 The connectivitymetrics package was developed in order to calculate river multi connectivity metrics, assisting in research on river fragmentation analysis.
 
 
